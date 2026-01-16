@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00C1n 2\\BaotangAodai3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63987E3B-078E-10EC-D8C3-784CA56D25E2}|Assembly-CSharp.csproj|d:\\\u0111\u1ED3 \u00E1n 2\\baotangaodai3d\\assets\\scripts\\pickupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63987E3B-078E-10EC-D8C3-784CA56D25E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63987E3B-078E-10EC-D8C3-784CA56D25E2}|Assembly-CSharp.csproj|d:\\\u0111\u1ED3 \u00E1n 2\\baotangaodai3d\\assets\\scripts\\rpgmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63987E3B-078E-10EC-D8C3-784CA56D25E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rpgmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickUpScript.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 2\\BaotangAodai3D\\Assets\\Scripts\\PickUpScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpScript.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 2\\BaotangAodai3D\\Assets\\Scripts\\PickUpScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUpScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:08:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RPGMovement.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 2\\BaotangAodai3D\\Assets\\Scripts\\RPGMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RPGMovement.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 2\\BaotangAodai3D\\Assets\\Scripts\\RPGMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RPGMovement.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:06:57.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
